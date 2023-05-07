@@ -1,4 +1,6 @@
-**Card game**
+# Card game
+
+This is a card game that provides a platform for playing one player game. The website offers a user-friendly interface that allows users to play easily without any interuption.
 
 
 **Technologies used**
@@ -11,6 +13,7 @@ HTML
 CSS
 
 JavaScript
+
 
 **Installation**
 
