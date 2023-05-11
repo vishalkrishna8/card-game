@@ -1,6 +1,10 @@
 # Card game
 
+
 This is a card game that provides a platform for playing one player game. The website offers a user-friendly interface that allows users to play smoothly.
+
+
+**[Live demo](https://cardgameflex.vercel.app/)**
 
 
 **Technologies used**
@@ -24,6 +28,7 @@ Clone the repository
 
 Open the website in a browser: http://localhost:3000
 
+
 **Contributing**
 
 
@@ -36,8 +41,3 @@ Make changes and commit them: git commit -am 'Add new feature'
 Push to the branch: git push origin new-feature
 
 Create a pull request
-
-**License**
-
-
-This website is licensed under the MIT License. See the LICENSE file for more information.
