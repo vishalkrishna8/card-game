@@ -4,10 +4,10 @@
 This is a card game that provides a platform for playing one player game. The website offers a user-friendly interface that allows users to play smoothly.
 
 
-**[Live demo](https://cardgameflex.vercel.app/)**
+## [Live demo](https://cardgameflex.vercel.app/)
 
 
-**Technologies used**
+## Technologies used
 
 
 This website was built using the following technologies:
@@ -19,7 +19,7 @@ This website was built using the following technologies:
 • JavaScript
 
 
-**Installation**
+## Installation
 
 
 To install and run the website locally, follow these steps:
@@ -29,7 +29,7 @@ To install and run the website locally, follow these steps:
 • Open the website in a browser: http://localhost:3000
 
 
-**Contributing**
+## Contributing
 
 
 Contributions to the website are welcome. To contribute, follow these steps:
