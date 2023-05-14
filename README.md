@@ -12,11 +12,11 @@ This is a card game that provides a platform for playing one player game. The we
 
 This website was built using the following technologies:
 
-HTML
+• HTML
 
-CSS
+• CSS
 
-JavaScript
+• JavaScript
 
 
 **Installation**
@@ -24,9 +24,9 @@ JavaScript
 
 To install and run the website locally, follow these steps:
 
-Clone the repository
+• Clone the repository
 
-Open the website in a browser: http://localhost:3000
+• Open the website in a browser: http://localhost:3000
 
 
 **Contributing**
@@ -34,10 +34,10 @@ Open the website in a browser: http://localhost:3000
 
 Contributions to the website are welcome. To contribute, follow these steps:
 
-Fork the repository Create a new branch: git checkout -b new-feature
+1. Fork the repository Create a new branch: git checkout -b new-feature
 
-Make changes and commit them: git commit -am 'Add new feature'
+2. Make changes and commit them: git commit -am 'Add new feature'
 
-Push to the branch: git push origin new-feature
+3. Push to the branch: git push origin new-feature
 
-Create a pull request
+4. Create a pull request
