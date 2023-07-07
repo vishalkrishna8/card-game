@@ -7,7 +7,7 @@ This is a card game that provides a platform for playing one player game. The we
 # [Live demo](https://cardgameflex.vercel.app/)
 
 
-## Technologies used
+#### Technologies used
 
 
 This website was built using the following technologies:
