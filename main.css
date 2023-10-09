@@ -57,7 +57,7 @@ body {
 .cards .card .view {
     width: 100%;
     height: 100%;
-    background-color: #4B3713;
+    background-color: linear-gradient(to right, #0981ac, #67edfc );
     border-radius: 25px 0;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.616);
 
