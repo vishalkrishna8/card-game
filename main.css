@@ -6,10 +6,10 @@
 
 body {
     display: flex;
-    background-color: #2C1503;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    background: url(images/bgimg.jpeg) center center/cover;
 }
 
 .card .front-view img {
